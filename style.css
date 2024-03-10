@@ -1,0 +1,20 @@
+body{
+    background-size: cover;
+    background-image: url(bipul.jpg)
+    
+}
+.image{
+    justify-content: center;
+
+}
+.Heading{
+    text-align: center;
+}
+.About{
+    text-decoration: solid;
+    text-size-adjust: 60px;
+}
+.Education{
+    text-decoration: solid;
+    text-size-adjust: 60px;
+}
